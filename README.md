@@ -5,7 +5,7 @@ Improvements in technology to analyze large amounts of data have led businesses 
 <a> Test </a>
 
 <h2>Week 2 - Descriptive Analytics and Dashboard</h2>
-![Dashboard Week 2](Dashboard%20Image%20Week%202.png)
+![Dashboard Screenshot](Dashboard%20Image%20Week%202.png)
 
 <h2>Week 3 - Descriptive Analytics with Tableau</h2>
 
