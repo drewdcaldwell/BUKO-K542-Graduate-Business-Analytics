@@ -5,7 +5,7 @@ Improvements in technology to analyze large amounts of data have led businesses 
 <a> Test </a>
 
 <h2>Week 2 - Descriptive Analytics and Dashboard</h2>
-![image alt](https://github.com/drewdcaldwell/BUKO-K542-Graduate-Business-Analytics/blob/52e5d631483c5e349b663dd8181d98f64d79daeb/Dashboard%20Image%20Week%202.png)
+![image alt](Dashboard Image Week 2.png)
 
 <h2>Week 3 - Descriptive Analytics with Tableau</h2>
 
